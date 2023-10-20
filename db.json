@@ -1,0 +1,49 @@
+{
+  "studentRoster": [
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 1
+    },
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 2
+    },
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 3
+    },
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 4
+    },
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 5
+    },
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 6
+    },
+    {
+      "fullName": "",
+      "researchAssignment": "",
+      "id": 7
+    },
+    {
+      "fullName": "jim",
+      "researchAssignment": "lily",
+      "id": 8
+    },
+    {
+      "fullName": "jeff",
+      "researchAssignment": "flower",
+      "id": 9
+    }
+  ]
+}
